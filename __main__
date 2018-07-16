@@ -25,12 +25,6 @@ url_begin='https://psv4.userapi.com/'
 
 
 # In[ ]:
-
-LOGIN=89142930493
-PASSWORD='ayal11'
-LANG='ru'
-
-
 # **Варианты приветствий**
 
 # In[ ]:
@@ -171,7 +165,7 @@ class VKBot:
 
 # In[ ]:
 
-group_id = '168509549'
+group_id = ''
 bot = VKBot(token_,group_id)
 
 
